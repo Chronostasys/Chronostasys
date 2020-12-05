@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [HubFucker](https://github.com/Chronostasys/HubFucker)  
-- I love c#
+- 🔭 I’m currently working on a p2p library
+- 🎉 I love c#
+- ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
 - I'm an undergraduate in HUST
 - I think HUST is bullshit
 <!--  
