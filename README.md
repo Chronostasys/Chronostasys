@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/Chronostasys">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chronostasys&show_icons=true&theme=dracula" />
+</a>
 
-- 🔭 I’m currently working on a p2p library
+
+- 🔭 I’m currently working on [motwo](https://www.motwo.cn)
 - 🎉 I love c#
 - ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
 - I'm an undergraduate in HUST
