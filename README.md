@@ -5,7 +5,7 @@
 </a> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronostasys)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronostasys) -->
 
 
 - 🔭 I’m currently working on [motwo](https://www.motwo.cn)
