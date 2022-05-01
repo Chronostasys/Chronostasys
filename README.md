@@ -8,10 +8,13 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronostasys) -->
 
 
-- 🔭 I’m currently working on [motwo](https://www.motwo.cn)
-- 🎉 I love c#
+- 🔭 I’m currently working on [calc](https://github.com/Chronostasys/calc)
+- 🎉 I love c# & golang
 - ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
 - I'm an undergraduate in HUST
 
+### Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chronostasys&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
