@@ -18,3 +18,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chronostasys&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@Chronostasys" alt="Chronostasys's count"/>
+  <p>Thanks for visit.</p>
+</div>
+
