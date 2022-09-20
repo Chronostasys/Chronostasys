@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on [pivot-lang](https://github.com/Pivot-Studio/pivot-lang)
-- 🎉 I love c# & golang
+- 🎉 I love c# & golang & rust
 - ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
 - I'm an undergraduate in HUST
 
