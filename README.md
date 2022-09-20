@@ -8,7 +8,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronostasys) -->
 
 
-- 🔭 I’m currently working on [calc](https://github.com/Chronostasys/calc)
+- 🔭 I’m currently working on [pivot-lang](https://github.com/Pivot-Studio/pivot-lang)
 - 🎉 I love c# & golang
 - ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
 - I'm an undergraduate in HUST
