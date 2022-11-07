@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [pivot-lang](https://github.com/Pivot-Studio/pivot-lang)
 - 🎉 I love c# & golang & rust
 - ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
-- Currently looking for a better job.
+- 👀 Currently looking for a better job.
 
 ### Profile Trophy 🏆
 
