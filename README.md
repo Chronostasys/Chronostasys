@@ -7,7 +7,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronostasys) -->
 
-- I'm intersted in building programing languages
+- I'm intersted in building programing language & gc
 - 🔭 I’m currently working on [pivot-lang](https://github.com/Pivot-Studio/pivot-lang)
 - 🎉 I love c# & golang & rust
 - ⚡ Designer & creator of [LimFx](https://www.limfx.pro) backend, developer of limfx frontend
