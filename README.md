@@ -2,6 +2,7 @@
 
 <a href="https://github.com/Chronostasys">
   <img src="https://github-readme-stats.vercel.app/api?username=Chronostasys&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AgentSmith&layout=compact&langs_count=8" />
 </a> 
 
 
@@ -15,7 +16,6 @@
 ### Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chronostasys&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 <div align="center">
